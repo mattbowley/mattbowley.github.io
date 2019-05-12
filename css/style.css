@@ -7,8 +7,25 @@ p{
 	color:blue;
 }
 
-.card-title2{
-	text-align: center;
+.center-profile{
+	margin:auto;
 }
 
 
+.img-circle{
+	border-radius: 100%;
+}
+
+p{
+	font-family:cursive;
+
+}
+
+.card-color{
+	background-color: purple;
+}
+
+.space{
+	height: 50px;
+	width:100%;
+}
